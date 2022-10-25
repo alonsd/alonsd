@@ -1,6 +1,6 @@
+[![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
 <h1 align="center">Hi 👋 I'm Alon Shlider 📱 </h1>
 <h3 align="center">Since 2017 I am developing, deploying and testing high scale testable mobile applications. I am focusing my work with companies that innovate, both technology wise and product wise. </h3>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alonsd&label=Profile%20views&color=0e75b6&style=flat" alt="alonsd" /> </p>
