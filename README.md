@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
+![MasterHead](https://cdn.dribbble.com/users/2475489/screenshots/10958341/media/1a42f156117294570ccd94f0b79a7395.gif)
 <h1 align="center">Hi 👋 I'm Alon Shlider 📱 </h1>
 <h3 align="center">Since 2017 I am developing, deploying and testing high scale testable mobile applications. I am focusing my work with companies that innovate, both technology wise and product wise. </h3>
 
